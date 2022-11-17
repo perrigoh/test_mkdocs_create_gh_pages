@@ -1,0 +1,7 @@
+site_name: Documentation
+site_url: https://tobespecifyaftedeploy.com
+
+nav:
+- Home: index.md
+
+theme: windmill
